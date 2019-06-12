@@ -7,7 +7,7 @@ class Cat
     puts "Meow!"
   end
 
-  def eating
-    puts "Eating"
+  def eats_food
+    puts "Yum!"
   end
 end
