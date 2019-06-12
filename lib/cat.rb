@@ -12,7 +12,6 @@ class Cat
     self.status = "going crazy"
   end
   
-end 
 
   def eats_food
     puts "Yum!"
@@ -21,6 +20,7 @@ end
   def eating_method
     puts "Prrrrrrr"
   end 
+  
   
 end
 
