@@ -6,4 +6,8 @@ class Cat
   def speak
     puts "Meow!"
   end
-end 
+
+  def eatting
+    puts "Eating"
+  end
+end
