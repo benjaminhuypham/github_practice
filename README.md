@@ -6,4 +6,8 @@
 - Kat Scriver - The Dark Towers by Stephen King
 - Ahmed - Hyperion
 - Kathleen - 10% Happier
+<<<<<<< HEAD
 - Angela - The Joy Luck Club
+=======
+- Tri Nguyen - Into the Abyss: An Extraordinary True Story
+>>>>>>> c2dfcb9978b575d5591f50d0ccb17342c5d07e22
