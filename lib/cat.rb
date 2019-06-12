@@ -6,4 +6,9 @@ class Cat
   def speak
     puts "Meow!"
   end
+  
+  def add_sleeping
+    "Sleeping Zzz"
+  end
+    
 end 
