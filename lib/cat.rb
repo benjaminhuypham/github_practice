@@ -7,12 +7,14 @@ class Cat
   def speak
     puts "Meow!"
   end
+  
+  def add_sleeping
+    "Sleeping Zzz"
+  end
 
   def add_catnip
     self.status = "going crazy"
   end
-  
-end 
 
   def eats_food
     puts "Yum!"
