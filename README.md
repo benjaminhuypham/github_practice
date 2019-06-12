@@ -7,3 +7,6 @@
 - Ahmed - Hyperion
 - Kathleen - 10% Happier
 - Dustin - The Lord of the Rings
+- Christy - Lord of the Rings
+- The Alchemist
+- Tri Nguyen - Into the Abyss: An Extraordinary True Story
