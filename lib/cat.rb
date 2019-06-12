@@ -8,6 +8,11 @@ class Cat
     puts "Meow!"
   end
 
+  def not_a_cat
+    puts "Curiosity killed the cat"
+    puts "Good thing I'm not a cat"
+  end
+
   def drinking_method
     puts "Slurp!"
   end
