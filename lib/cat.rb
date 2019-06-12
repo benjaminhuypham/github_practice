@@ -6,4 +6,9 @@ class Cat
   def speak
     puts "Meow!"
   end
-end 
+
+  def attack
+    puts "meOWWWWWWW, chop!"
+  end
+  
+end
