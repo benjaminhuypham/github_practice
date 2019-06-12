@@ -13,3 +13,8 @@ class Cat
   end
   
 end 
+
+  def eats_food
+    puts "Yum!"
+  end 
+end
