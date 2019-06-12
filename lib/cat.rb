@@ -10,4 +10,9 @@ class Cat
   def eats_food
     puts "Yum!"
   end 
+
+  def mad_cat
+    puts "Pushed stuff off table and ran away."
+  end
+
 end
