@@ -7,3 +7,4 @@
 - Ahmed - Hyperion
 - Kathleen - 10% Happier
 - Ricardo - The Name of the Wind by Patrick Rothfuss
+- Tri Nguyen - Into the Abyss: An Extraordinary True Story
