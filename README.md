@@ -10,3 +10,7 @@
 - The Alchemist
 - Tri Nguyen - Into the Abyss: An Extraordinary True Story
 - Patrick Candlin The Graveyard Book by Neil Gaiman
+- Angela - The Joy Luck Club
+- The Alchemist
+- DDDave - The Alchemist
+- Tri Nguyen - Into the Abyss: An Extraordinary True Story
