@@ -7,7 +7,11 @@ class Cat
   def speak
     puts "Meow!"
   end
-  
+
+  def drinking_method
+    puts "Slurp!"
+  end
+
   def add_sleeping
     "Sleeping Zzz"
   end
