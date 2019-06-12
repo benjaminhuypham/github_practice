@@ -10,4 +10,10 @@ class Cat
   def eats_food
     puts "Yum!"
   end 
+
+  def eating_method
+    puts "Prrrrrrr"
+  end 
+  
 end
+
