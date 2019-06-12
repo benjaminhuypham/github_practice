@@ -7,7 +7,7 @@ class Cat
     puts "Meow!"
   end
 
-  def eatting
+  def eating
     puts "Eating"
   end
 end
