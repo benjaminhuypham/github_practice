@@ -6,4 +6,8 @@ class Cat
   def speak
     puts "Meow!"
   end
-end 
+
+  def eats_food
+    puts "Yum!"
+  end 
+end
