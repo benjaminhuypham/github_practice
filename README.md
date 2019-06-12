@@ -6,5 +6,7 @@
 - Kat Scriver - The Dark Towers by Stephen King
 - Ahmed - Hyperion
 - Kathleen - 10% Happier
+- Christy - Lord of the Rings
+- The Alchemist
 - Tri Nguyen - Into the Abyss: An Extraordinary True Story
 - Patrick Candlin The Graveyard Book by Neil Gaiman
