@@ -9,3 +9,7 @@
 - Angela - The Joy Luck Club
 - DDDave - The Alchemist
 - Tri Nguyen - Into the Abyss: An Extraordinary True Story
+- Christy - LOTR
+- Dustin - The Lord of the Rings
+- Patrick Candlin The Graveyard Book by Neil Gaiman
+- Ricardo - The Name of the Wind by Patrick Rothfuss
