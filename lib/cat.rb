@@ -1,6 +1,7 @@
 class Cat
-  def initialize(name)
+  def initialize(name, calm=status)
     @name = name
+    @status = status
   end
 
   def speak
@@ -11,4 +12,15 @@ class Cat
     puts "Slurp!"
   end
 
-end 
+  def add_sleeping
+    "Sleeping Zzz"
+  end
+
+  def add_catnip
+    self.status = "going crazy"
+  end
+
+  def eats_food
+    puts "Yum!"
+  end 
+end
