@@ -12,7 +12,11 @@ class Cat
   def attack
     puts "meOWWWWWWW, chop!"
   end
-  
+
+  def drinking_method
+    puts "Slurp!"
+  end
+
   def add_sleeping
     "Sleeping Zzz"
   end
@@ -26,3 +30,4 @@ class Cat
   end 
 
 end
+
