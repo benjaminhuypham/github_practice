@@ -1,4 +1,5 @@
 class Cat
+  
   def initialize(name, calm=status)
     @name = name
     @status = status
@@ -6,6 +7,10 @@ class Cat
 
   def speak
     puts "Meow!"
+  end
+
+  def attack
+    puts "meOWWWWWWW, chop!"
   end
 
   def not_a_cat
@@ -34,3 +39,4 @@ class Cat
   end
 
 end
+

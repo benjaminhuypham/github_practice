@@ -14,6 +14,9 @@
 - Christy - LOTR
 - Dustin - The Lord of the Rings
 - Patrick Candlin The Graveyard Book by Neil Gaiman
+<<<<<<< HEAD
+=======
 - Angela - The Joy Luck Club
 - DDDave - The Alchemist
+>>>>>>> c1453ec09eb1e433d47d1d13fe8946017fe48aed
 - Ricardo - The Name of the Wind by Patrick Rothfuss
