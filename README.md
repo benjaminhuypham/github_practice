@@ -6,3 +6,4 @@
 - Kat Scriver - The Dark Towers by Stephen King
 - Ahmed - Hyperion
 - Kathleen - 10% Happier
+- Angela - The Joy Luck Club
