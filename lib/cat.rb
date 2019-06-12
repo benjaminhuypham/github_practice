@@ -13,6 +13,11 @@ class Cat
     puts "meOWWWWWWW, chop!"
   end
 
+  def not_a_cat
+    puts "Curiosity killed the cat"
+    puts "Good thing I'm not a cat"
+  end
+
   def drinking_method
     puts "Slurp!"
   end
@@ -28,6 +33,10 @@ class Cat
   def eats_food
     puts "Yum!"
   end 
+
+  def mad_cat
+    puts "Pushed stuff off table and ran away."
+  end
 
 end
 
