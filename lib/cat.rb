@@ -1,13 +1,11 @@
 class Cat
-  def initialize(name)
+
+  def initialize(name, calm=status)
     @name = name
+    @status = status
   end
 
   def speak
     puts "Meow!"
   end
-
-  def eats_food
-    puts "Yum!"
-  end 
 end
