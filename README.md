@@ -7,6 +7,14 @@
 - Take 5 minutes and research Distributed Version Control System (like Git!)
 - Be ready to share your findings with the class
 
+## Version Control System
+- Can give you off network access
+- More security concerns
+- Allows multiple people to work at the same time
+- More collaboration
+- More things
+- Even more things
+
 # New Friends (You need a name)
 
 **Meet the class!**
