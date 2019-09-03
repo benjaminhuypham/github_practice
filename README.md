@@ -12,8 +12,6 @@
 - More security concerns
 - Allows multiple people to work at the same time
 - More collaboration
-- More things
-- Even more things
 
 # New Friends (You need a name)
 
