@@ -1,3 +1,5 @@
+# Intro to Git
+
 ## Objectives
 1. What is a distributed version control system?
 1. Understand basic git flow.
@@ -13,10 +15,31 @@
 - Allows multiple people to work at the same time
 - More collaboration
 
-## Exercise
+## Git Flow
+**Stage, Commit, Push**
 
-### New Friends (You need a name :wink:)
+**I Do**
+- git status
+(discuss staging)
+- git add <filename>
+- git status (always good to double check)
+(discuss committing)
+- git commit -m "message here"
+- git push origin master
 
+**Turn and Talk: What is a local repo vs a remote repo?**
+(discuss local vs remote)
 
-#### Please list your name and your favorite book or movie.
-- Kat - The Dark Tower by Stephen King
+**You Do With Me**
+- How to set up a local repo and a remote repo.
+- Wire local to talk to remote.
+
+**Work with Partner**
+- Create a new file on your local.
+- Add some content.
+- Stage, commit, push changes to your remote repo.
+
+## Deliverable
+Slack to me:
+  - Link to your Github repo.
+  - A list of the git commands you used to add changes to your remote repo.
