@@ -20,13 +20,13 @@
 
 **I Do**
 (add new file)
-- git status
-(discuss staging)
-- git add <filename>
-- git status (always good to double check)
-(discuss committing)
-- git commit -m "message here"
-- git push origin master
+```
+  - git status (discuss staging)
+  - git add <filename>
+  - git status (discuss committing)
+  - git commit -m "message here"
+  - git push origin master
+```
 
 **Turn and Talk: What is a local repo vs a remote repo?**
 (discuss local vs remote)
