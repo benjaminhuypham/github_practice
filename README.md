@@ -19,6 +19,7 @@
 **Stage, Commit, Push**
 
 **I Do**
+(add new file)
 - git status
 (discuss staging)
 - git add <filename>
@@ -40,6 +41,6 @@
 - Stage, commit, push changes to your remote repo.
 
 ## Deliverable
-Slack to me:
+_Slack to me:_
   - Link to your Github repo.
   - A list of the git commands you used to add changes to your remote repo.
